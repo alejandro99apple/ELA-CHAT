@@ -5,8 +5,9 @@ An intelligent virtual assistant powered by **Retrieval-Augmented Generation (RA
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/25decb55-9248-47e8-8613-b49a47802f99" alt="ELA Chat Interface" width="90%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  <img src="https://github.com/user-attachments/assets/1979281c-20b8-42b1-893b-9e93ef379ba2" alt="ELA Chat Interface" width="90%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 </div>
+
 
 ---
 
